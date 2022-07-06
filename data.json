@@ -1,0 +1,34 @@
+[
+  {
+    "fullsentence" : "i got wine at school",
+    "status" : 1,
+    "tag" : [{
+        "tagtype":"gift",
+        "start":0,
+        "end":10
+    },{
+        "tagtype":"location",
+        "start":10
+    }]
+  },
+  {
+    "fullsentence":"gold bar at hotel",
+    "status": 1,
+    "tag":[{
+      "tagtype":"gift",
+      "start":0,
+      "end":10
+    },{
+      "tagtype":"location",
+      "start":20,
+      "end":30
+    }]
+  },
+  {
+    "fullsentence":"teddy bear at company",
+    "status":0,
+    "tag":[
+      
+    ]
+  }
+]
